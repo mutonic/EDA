@@ -1,4 +1,4 @@
-# EDA
+# Exploratory Data Analysis (EDA)
 Exploratory Data Analysis
 
 ### Problem Statement - I
